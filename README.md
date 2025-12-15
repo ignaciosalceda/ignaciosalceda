@@ -1,6 +1,6 @@
 # Ignacio Salceda Rodríguez
 
-Data Engineer and analytics-driven professional, currently finishing a Master’s in Data Science and Business Analytics, with experience building data-intensive systems, analytical platforms, and decision-support solutions in both consulting and academic environments.
+Data Engineer and analytics-driven professional, currently working as a Data Engineer, with experience building data-intensive systems, analytical platforms, and decision-support solutions in both consulting and academic environments.
 
 My work sits at the intersection of **data engineering, analytics, and applied machine learning**, with a strong focus on building systems that are understandable, scalable, and useful to real stakeholders.
 
