@@ -6,17 +6,6 @@ My work sits at the intersection of **data engineering, analytics, and applied m
 
 ---
 
-## What I work on
-
-I’m particularly interested in:
-- End-to-end data systems: from ingestion and storage to analytics and decision-making  
-- Data engineering patterns for real-world environments (batch, streaming, lakehouse)  
-- Applied analytics and ML projects that connect data to business outcomes  
-
-I care less about flashy demos and more about **clear data models, sound architecture, and reproducible workflows**.
-
----
-
 ## Selected Projects
 
 ### Retail Multi-Agent Analytics System
